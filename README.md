@@ -2,7 +2,7 @@
 
 **Group:** solo submission (approved by Teresa Vidal Calleja)  
 **Team:** Ferdinand Auld (25560032), sole member  
-**Demo video (5 min):** to be added. Raw demo clips: [nominal](results/video/nominal.mp4), [disturbed](results/video/disturbed.mp4), [camera blind](results/video/blind.mp4)  
+**Demo video (5 min):** https://youtu.be/mCpa7p5bvXQ. Raw demo clips: [nominal](results/video/nominal.mp4), [disturbed](results/video/disturbed.mp4), [camera blind](results/video/blind.mp4)  
 **Repository (code, and the version where the diagrams render):** https://github.com/fnordystew888/tb3-visual-docking  
 **Track:** A, mobile robot. TurtleBot3 Burger with 2D LiDAR and camera in MuJoCo. It navigates a room with unknown obstacles using the LiDAR and docks visually at an ArUco-marked charging station. **Simulation only** (no hardware component).
 
